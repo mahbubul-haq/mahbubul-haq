@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubul Haque</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubul-haq" /> </p>
+`<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubul-haq" /> </p>`
 
 - 🔭 I’m currently working on **LearningOn**
 
