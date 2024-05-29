@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mahbubul Haque</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+## Hello there! <img src="assets/hello.gif" width="28px" alt="hi">
 
+<p>I am Mahbubul Haque, a passionate Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubul-haq" /> </p> -->
 
+🔗 Portfolio Website [https://mahbubul-haq.github.io/](https://mahbubul-haq.github.io/)
+
+<h5>My profiles</h5>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubul-haque-807311189/) [![Codeforces Badge](https://img.shields.io/badge/Codeforces-1c97d3?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/F__)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=#ffae36)](https://leetcode.com/u/mahbubulhaque/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahbubulhaque99) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mahbubulhaque)
+
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:) -->
 - 🔭 I’m currently working on **LearningOn**
 
 - 🌱 I’m currently learning **TailwindCSS**
