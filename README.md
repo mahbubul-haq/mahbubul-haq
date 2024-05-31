@@ -1,6 +1,7 @@
-## Hello there! <img src="assets/hello.gif" width="28px" alt="hi">
 
-<p fontSize="2rem">I am Mahbubul Haque, a passionate Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. </p>
+<h1 align="center"> Hi <img src="assets/hello.gif" width="30">, I am Mahbubul Haque </h1>
+<h3 align="center"> A passionate Web Developer from <img src="assets/bangladesh.png" width="18"> Bangladesh. </h3>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubul-haq" /> </p> -->
 
 🔗 Portfolio [https://mahbubul-haq.github.io/](https://mahbubul-haq.github.io/)
