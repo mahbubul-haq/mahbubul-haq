@@ -85,17 +85,17 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mahbubul-haq/Data-Structures-And-Algorithms" target="_blank">DSA Repository</a></td>
-      <td>Learnt and Implemented Data Structures and Algorithms</td>
+      <td>I learned and implemented these Data Structures and Algorithms</td>
       <td align="center"><a href="https://github.com/mahbubul-haq/Data-Structures-And-Algorithms" target="_blank"> Github </a></td>
     </tr>
      <tr>
       <td><a href="https://github.com/mahbubul-haq/MySolvedProblems" target="_blank">Problem Solving</a></td>
-      <td>Solved 1600 problems Accross Different Online Judges</td>
+      <td><b>Solved 1600 problems</b> Accross Different Online Judges</td>
       <td align="center"><a href="https://github.com/mahbubul-haq/MySolvedProblems" target="_blank"> Github </a></td>
     </tr>
      <tr>
       <td><a href="https://codeforces.com/profile/F__" target="_blank">Competitive Programming</a></td>
-      <td>Became a Candidate Master(Purple Coder) in Codeforces</td>
+      <td>Became a <b>Candidate Master(Purple Coder)</b> in Codeforces</td>
       <td align="center"><a href="https://codeforces.com/profile/F__" target="_blank"> Codeforces </a></td>
     </tr>
   </tbody>
