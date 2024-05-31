@@ -6,7 +6,7 @@
 
 🔗 Portfolio [https://mahbubul-haq.github.io/](https://mahbubul-haq.github.io/)
 
-📧 Email [mdmahbubulhaque99@gmail.com](mailto:mdmahbubulhaque99@gmail.com)
+📧 Email [mahbubul.haque.1048@gmail.com](mailto:mahbubul.haque.1048@gmail.com)
 <h5>My profiles</h5>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubul-haque-807311189/) [![Codeforces Badge](https://img.shields.io/badge/Codeforces-1c97d3?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/F__)
