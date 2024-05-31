@@ -18,8 +18,42 @@
 - 🌱 I’m currently learning **TailwindCSS**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Skills:</h3>
+
+<p>Languages</p>
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Static Badge](https://img.shields.io/badge/-Python-Python?style=for-the-badge&logo=python&labelColor=000&color=3776ab)
+](#) [![Static Badge](https://img.shields.io/badge/-C%2B%2B-C%2B%2B?style=for-the-badge&logo=c%2B%2B&labelColor=000&color=6295cb)
+](#) [![Static Badge](https://img.shields.io/badge/-Java-Java?style=for-the-badge&label=J&labelColor=000&color=f0931c)
+](#) [![Static Badge](https://img.shields.io/badge/-CSS-CSS?style=for-the-badge&logo=css3&labelColor=000&color=146eb0)
+](#) [![Static Badge](https://img.shields.io/badge/-HTML-HTML?style=for-the-badge&logo=html5&labelColor=000&color=d84b24)
+](#)
+<p>Frameworks & Library</p>
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![Material_UI Badge](https://img.shields.io/badge/-Material%20UI-Material%20UI?style=for-the-badge&labelColor=000&logo=mui&color=blue)](#) [![Static Badge](https://img.shields.io/badge/-Bootstrap-Bootstrap?style=for-the-badge&logo=bootstrap&labelColor=000&color=%237952b3%20)](#) [![Static Badge](https://img.shields.io/badge/-Redux-Redux?style=for-the-badge&logo=redux&labelColor=000&color=7248b6)
+](#)  [![Static Badge](https://img.shields.io/badge/-Socke.io-Socket%20io?style=for-the-badge&logo=socket.io&labelColor=000&color=25c2a0%20)
+](#) [![Static Badge](https://img.shields.io/badge/-Django-Django?style=for-the-badge&logo=django&labelColor=000&color=092d1f)
+](#) [![Static Badge](https://img.shields.io/badge/-DRF-DRF?style=for-the-badge&logo=django&labelColor=000&color=092d1f)
+](#) [![Static Badge](https://img.shields.io/badge/-JavaFx-JavaFx?style=for-the-badge&logo=java&label=J&labelColor=000&color=e51f24)
+](#)
+<p>Databases </p>
+
+[![Static Badge](https://img.shields.io/badge/-PostgreSQL-PostgreSQL?style=for-the-badge&logo=postgresql&labelColor=000&color=1d2f66)
+](#) [![Static Badge](https://img.shields.io/badge/-Oracle-Oracle?style=for-the-badge&logo=oracle&labelColor=000&color=f70000)
+](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=000&logo=mongodb&logoColor=white)](#) 
+<p>Tools & API</p>
+
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=000&logo=git&logoColor=white)](#) [![Static Badge](https://img.shields.io/badge/-Figma-Figma?style=for-the-badge&logo=figma&labelColor=000&color=ea4c1d)
+](#) [![Static Badge](https://img.shields.io/badge/-Stripe-Stripe?style=for-the-badge&logo=stripe&labelColor=000&color=146eb0)
+](#) [![Static Badge](https://img.shields.io/badge/-RestAPI-RestAPI?style=for-the-badge&logo=settings&label=R&labelColor=000&color=146eb0)
+](#)
+<p>Others</p>
+
+[![Static Badge](https://img.shields.io/badge/-DSA-DSA?style=for-the-badge&logo=thealgorithms&labelColor=000&color=006a65)
+](#) [![Static Badge](https://img.shields.io/badge/-Competitive%20Programming-Competitive%20Programming?style=for-the-badge&logo=thealgorithms&labelColor=000&color=006a65)
+](#)[![Static Badge](https://img.shields.io/badge/-OOP-OOP?style=for-the-badge&logo=opera&labelColor=000&color=006a65)
+](#) [![Static Badge](https://img.shields.io/badge/-Schema%20Design-Schema%20Design?style=for-the-badge&logo=semanticui&labelColor=000&color=006a65)
+](#)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubul-haq&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahbubul-haq" /></p>
 
