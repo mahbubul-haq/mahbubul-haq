@@ -91,7 +91,7 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mahbubul-haq/MySolvedProblems" target="_blank">Problem Solving</a></td>
-      <td><b>Solved 1600 problems</b> Accross Different Online Judges</td>
+      <td><b>Solved 1600+ problems</b> Accross Different Online Judges</td>
       <td align="center"><a href="https://github.com/mahbubul-haq/MySolvedProblems" target="_blank"> Github </a></td>
     </tr>
      <tr>
