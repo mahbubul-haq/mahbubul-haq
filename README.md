@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **LearningOn Web App**
 
-- 🌱 I’m currently learning **TailwindCSS**
+- 🌱 I’m currently learning **TailwindCSS** **JEST**
 
 <h5>My profiles</h5>
 
