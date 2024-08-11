@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hi 👋, I am Mahbubul Haque </h1>
+<h1 align="center"> Hi 👋, I am Mahbubul Haque </h1>
 <h3 align="center"> A passionate Web Developer from <img src="assets/bangladesh.png" width="18"> Bangladesh. </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubul-haq" /> </p> -->
