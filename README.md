@@ -108,4 +108,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubul-haq&show_icons=true&locale=en&layout=compact" alt="mahbubul-haq" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubul-haq&show_icons=true&locale=en" alt="mahbubul-haq" /></p>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubul-haq alt="mahbubul-haq" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats-sandy-nine.vercel.app?user=mahbubul-haq&theme=buefy)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats-sandy-nine.vercel.app?user=mahbubul-haq&theme=buefy" alt="mahbubul-haq" /></p>
