@@ -107,5 +107,10 @@
 ## Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubul-haq&show_icons=true&locale=en&layout=compact" alt="mahbubul-haq" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubul-haq&show_icons=true&locale=en" alt="mahbubul-haq" /></p>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubul-haq alt="mahbubul-haq" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats-sandy-nine.vercel.app?user=mahbubul-haq&theme=buefy" alt="mahbubul-haq" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=mahbubul-haq&theme=dark" alt="mahbubul-haq" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats-sandy-nine.vercel.app?user=mahbubul-haq&theme=buefy" alt="mahbubul-haq" /></p> -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahbubul-haq&show_icons=true) -->
+<!-- ![GitHub Contributions](https://img.shields.io/github/contributors/mahbubul-haq/mahbubul-haq) -->
+
+
+
