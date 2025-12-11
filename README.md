@@ -63,7 +63,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/mahbubul-haq/LearningOn" target="_blank">LearningOn</a></td>
-      <td>Online learning platform with courses, blogs & tutors</td>
+      <td>Online learning platform</td>
       <td align="center"><a href="https://learning-on.vercel.app" target="_blank"> Live </a></td>
     </tr>
     <tr>
